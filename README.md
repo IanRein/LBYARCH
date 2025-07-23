@@ -7,3 +7,7 @@ In the video one can see that its not a 100% correct truncating of the values th
 1. Integer processing can sometimes be different between programs like python, 0.39 is not necessarily JUST 0.39 but also has more values but only cut short in the output
 2. Example of this is when one multiplies 0.39 * 255 = 99.45, in computer computing(python specifically) round(99.45) is 99 and not 100
 3. All in all the differences are just due to rounding and floating-point representation.
+Files uploaded in this github:
+1. Screenshots of the specs
+2. Videos of testing
+3. Full Code .c and asm (folder used in visual studio too)
