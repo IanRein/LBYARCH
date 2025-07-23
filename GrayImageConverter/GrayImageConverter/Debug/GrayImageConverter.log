@@ -1,0 +1,28 @@
+﻿  Assembling ..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm...
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(1): error A2013: .MODEL must precede this directive
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(2): error A2034: must be in segment block : imgCvtGrayDoubleToInt
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(7): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(8): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(10): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(11): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(12): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(14): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(15): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(16): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(17): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(18): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(19): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(20): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(21): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(22): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(23): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(24): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(25): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(26): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(27): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(28): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(30): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(31): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(32): error A2034: must be in segment block
+..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm(33): fatal error A1010: unmatched block nesting : imgCvtGrayDoubleToInt
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\imgCvtGrayDoubleToInt.obj" /W3 /errorReport:prompt  /Ta..\..\..\..\Documents\imgCvtGrayDoubleToInt.asm" exited with code 1.
